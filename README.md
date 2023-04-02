@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning at University of Engineering and Management , Kolkata
+- 💬 Ask me about my hobby 
 <!--
 **SankalpaDutta012/SankalpaDutta012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
