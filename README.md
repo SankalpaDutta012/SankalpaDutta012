@@ -4,6 +4,7 @@
 - 💬 Ask me about my hobby 
 - Check me out : https://www.linkedin.com/in/sankalpa-dutta-09187525b
 - Also find me on Instagram : https://instagram.com/dutta_sankalpa?igshid=ZDdkNTZiNTM=
+- My Twitter Handle : https://twitter.com/SankalpaDutta3?t=b-F4CWGokIeC3EnrJr_HZw&s=09
 <!--
 **SankalpaDutta012/SankalpaDutta012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
