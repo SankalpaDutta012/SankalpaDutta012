@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning at University of Engineering and Management , Kolkata
 - 💬 Ask me about my hobby 
+- My LinkedIn Accout : https://www.linkedin.com/in/sankalpa-dutta-09187525b
 <!--
 **SankalpaDutta012/SankalpaDutta012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
