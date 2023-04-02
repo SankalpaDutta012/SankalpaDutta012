@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning at University of Engineering and Management , Kolkata
 - 💬 Ask me about my hobby 
 - Check me out : https://www.linkedin.com/in/sankalpa-dutta-09187525b
---=Also find me : https://instagram.com/dutta_sankalpa?igshid=ZDdkNTZiNTM=
+--Also find me : https://instagram.com/dutta_sankalpa?igshid=ZDdkNTZiNTM=
 <!--
 **SankalpaDutta012/SankalpaDutta012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
