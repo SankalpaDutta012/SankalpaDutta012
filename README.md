@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning at University of Engineering and Management , Kolkata
-- 💬 Ask me about my hobby 
+- 💬 Ask me about MY SKILLS
 - Check me out : https://www.linkedin.com/in/sankalpa-dutta-09187525b
 - Also find me on Instagram : https://instagram.com/dutta_sankalpa?igshid=ZDdkNTZiNTM=
 - My Twitter Handle : https://twitter.com/SankalpaDutta3?t=b-F4CWGokIeC3EnrJr_HZw&s=09
