@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align=center>
+<img src="img/github-header-image.png">
+</div>
+<br>
 
 - 🌱 I’m currently learning at University of Engineering and Management , Kolkata
 - 💬 Ask me about MY SKILLS
