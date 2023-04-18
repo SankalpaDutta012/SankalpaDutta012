@@ -9,7 +9,7 @@
 - My Twitter Handle : https://twitter.com/SankalpaDutta3?t=b-F4CWGokIeC3EnrJr_HZw&s=09
 
 
-<h3 align="center">A hard working beginer from India</h3>
+<h3 align="center">A Hard Working Beginer from INDIA</h3>
 
 
 
