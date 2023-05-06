@@ -1,5 +1,5 @@
 <div align=center>
-<img src="img/github-header-image.png">
+<img src="https://github.com/aviwesha272/SankalpaDutta012/blob/main/Hi!%20I'm%20sankalpa%20dutta.gif">
 </div>
 <br>
 
