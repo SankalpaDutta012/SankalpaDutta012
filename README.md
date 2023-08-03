@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently studying at **University of Engineering and Management, Kolkata**
 
-- 🌱 I’m currently learning **React.js & MongoDb**
+- 🌱 I’m currently learning **React.js , MongoDb , Java & JavaScript**
 
 
 <p align="left">
