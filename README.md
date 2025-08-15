@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **React.js , MongoDb ,C++ & JavaScript**
 
-- Find about me: [https://portfolio-sd-1.onrender.com](https://portfolio-sd-ecru.vercel.app/)
+- Find about me: [https://portfolio-sd-ecru.vercel.app/](https://portfolio-sd-ecru.vercel.app/)
 
 
 <p align="left">
