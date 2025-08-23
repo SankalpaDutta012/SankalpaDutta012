@@ -4,6 +4,9 @@
 <br>
 
 ## 👋 Hey, I'm Sankalpa Dutta  
+<img align="right" alt="Coding gif" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXkzdHczNTBhdTA4ZGVrYWo1dG50cjhxOGV6NDhyemVwYTB5anRpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" />
+
+
 
 - 🌏 Developer & Tech Enthusiast from **India**  
 - 🎓 Currently pursuing **B.Tech CSE (IoT, CS & Blockchain Technology)** at **University of Engineering and Management, Kolkata**  
