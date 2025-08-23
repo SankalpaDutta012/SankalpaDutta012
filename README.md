@@ -1,29 +1,21 @@
-<div align=center>
-<img src="img/github-header-image.png">
+<div align="center">
+  <img src="img/github-header-image.png" alt="GitHub Banner">
 </div>
 <br>
 
+## 👋 Hey, I'm Sankalpa Dutta  
 
-- Check me out : https://www.linkedin.com/in/sankalpa-dutta-09187525b
-  
+- 🌏 Developer & Tech Enthusiast from **India**  
+- 🎓 Currently pursuing **B.Tech CSE (IoT, CS & Blockchain Technology)** at **University of Engineering and Management, Kolkata**  
+- 🔭 Passionate about **IoT, AI/ML, Blockchain, and Full-Stack Development**  
+- 🚀 Worked on projects like **traffic optimization, encrypted chat apps, competitive programming trackers, and smart IoT systems**  
+- 🏆 Secured **5th place in ICDMAI Hackathon** and currently interning at **Calcutta University (R&D Department)**  
+- 📚 Constantly learning and building innovative real-world solutions  
 
+### 🌐 Find Me Around the Web  
+- 💼 LinkedIn: [Sankalpa Dutta](https://www.linkedin.com/in/sankalpa-dutta-09187525b)  
+- 🖥️ Portfolio: [portfolio-sd-ecru.vercel.app](https://portfolio-sd-ecru.vercel.app/)  
 
-<h3 align="center">DEVELOPER FROM INDIA</h3>
+---
 
-
-
-- 🔭 I’m currently studying at **University of Engineering and Management, Kolkata**
-
-- 🌱 I’m currently learning **React.js , MongoDb ,C++ & JavaScript**
-
-- Find about me: [https://portfolio-sd-ecru.vercel.app/](https://portfolio-sd-ecru.vercel.app/)
-
-
-<p align="left">
-</p>
-
-
-
-
-
-
+<h3 align="center">💡 "Code. Build. Innovate. Repeat."</h3>
